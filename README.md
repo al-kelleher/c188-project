@@ -1,0 +1,3 @@
+# C188 - Software Engineering
+
+This was my passing submission for the C188 project. The given scenario is that a company called “American Video Game Company” is planning on launching an internal CRM to improve the management of several disconnected manual and automated functions. The company has achieved massive success, sales have been up 42% for the past two years and they need a CRM that can scale with their growth. I have been tasked with drawing up a solution proposal, designing a storyboard and GUI for the CRM, explaining its functions, the difference between agile and waterfall methodology and why one works better than the other for the given situation, ensuring scalability, security, and deploying various test cases.
